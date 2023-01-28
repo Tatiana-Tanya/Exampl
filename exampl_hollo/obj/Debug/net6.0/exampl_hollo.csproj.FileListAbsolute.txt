@@ -1,0 +1,15 @@
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\bin\Debug\net6.0\exampl_hollo.exe
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\bin\Debug\net6.0\exampl_hollo.deps.json
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\bin\Debug\net6.0\exampl_hollo.runtimeconfig.json
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\bin\Debug\net6.0\exampl_hollo.dll
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\bin\Debug\net6.0\exampl_hollo.pdb
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.csproj.AssemblyReference.cache
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.AssemblyInfoInputs.cache
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.AssemblyInfo.cs
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.csproj.CoreCompileInputs.cache
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.dll
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\refint\exampl_hollo.dll
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.pdb
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\exampl_hollo.genruntimeconfig.cache
+C:\Users\duyma\OneDrive\Рабочий стол\git_gicbrains\Exampl\exampl_hollo\obj\Debug\net6.0\ref\exampl_hollo.dll
